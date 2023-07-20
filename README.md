@@ -1,9 +1,6 @@
 # GITProject
 This is my GIT project.
 
-# GITProject
-This is my GIT project.
-
 # ENG 
 ## Generation ok key
 gpg --full-generate-key
